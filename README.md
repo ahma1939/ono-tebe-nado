@@ -14,7 +14,7 @@
 
 **GitHub Pages**
 
-* [Ссылка на проект в GitHub Pages](https://whereareyou666.github.io/mesto/)
+* [Ссылка на проект в GitHub Pages](https://ahma1939.github.io/ono-tebe-nado/)
 
 **Figma**
 
