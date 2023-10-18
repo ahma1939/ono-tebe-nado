@@ -13,9 +13,7 @@
   * Flexbox;
 
 
-**GitHub**
-
-* [Ссылка на репозиторий в GitHub](https://github.com/ahma1939/ono-tebe-nado)
+- Репозиторий проекта: https://github.com/ahma1939/ono-tebe-nado
 
 **GitHub Pages**
 
