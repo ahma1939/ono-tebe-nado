@@ -12,6 +12,11 @@
   * Grid layout;
   * Flexbox;
 
+
+**GitHub**
+
+* [Ссылка на репозиторий в GitHub](https://github.com/ahma1939/ono-tebe-nado)
+
 **GitHub Pages**
 
 * [Ссылка на проект в GitHub Pages](https://ahma1939.github.io/ono-tebe-nado/)
