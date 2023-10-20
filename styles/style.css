@@ -2,7 +2,7 @@
   padding: 92px 0 90px;
   margin: auto;
   color: #000;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -45,7 +45,7 @@
   margin: 5px 0 7px;
   justify-self: end;
   color: #000;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -60,7 +60,7 @@
 .jambotron {
   position: relative;
   z-index: 1;
-  padding: 165px 0 50px;
+  padding: 165px 50px 50px;
   background-image: url(../images/cover.jpg);
   background-repeat: no-repeat;
   background-position: center;
@@ -69,7 +69,7 @@
 
 .overlay__title {
   color: #fff;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 100px;
   font-style: normal;
   font-weight: 700;
@@ -114,7 +114,7 @@
 .discription__title {
   color: #fff;
   text-align: center;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
@@ -127,7 +127,7 @@
   margin: 0 50px 0 0;
   color: #fff;
   text-align: center;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
@@ -153,7 +153,7 @@
 
 .lots__title {
   color: #000;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -223,7 +223,7 @@
 
 .list__item-title {
   color: #fff;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 700;
@@ -234,7 +234,7 @@
 
 .list__item-discription {
   color: #fff;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -277,7 +277,7 @@
 
 .about__article-title {
   color: #000;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -305,7 +305,7 @@
   margin: 5px 0 7px;
   justify-self: start;
   color: #000;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
