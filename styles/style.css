@@ -87,7 +87,7 @@
 }
 
 .overlay__title_nospacing {
-  letter-spacing: 30px;
+  letter-spacing: 0;
 }
 
 .overlay {
@@ -120,11 +120,10 @@
   font-weight: 400;
   line-height: 28px;
   text-transform: uppercase;
-  word-spacing: 8px;
+  word-spacing: 18px;
 }
 
 .discription__button {
-  margin: 0 50px 0 0;
   color: #fff;
   text-align: center;
   font-family: "Raleway", sans-serif;
@@ -181,6 +180,10 @@
   padding: 50px 40px;
   color: #fff;
   justify-content: space-between;
+  background-color: #a7a7a7;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .list__link {
@@ -199,26 +202,14 @@
 
 .list__item-film {
   background-image: url(../images/card-lot-01.jpg);
-  background-color: #a7a7a7;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
 }
 
 .list__item-book {
   background-image: url(../images/card-lot-02.jpg);
-  background-color: #a7a7a7;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
 }
 
 .list__item-picture {
   background-image: url(../images/card-lot-03.jpg);
-  background-color: #a7a7a7;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
 }
 
 .list__item-title {
@@ -287,6 +278,7 @@
 }
 
 .about__text {
+  font-size: 20px;
   display: flex;
   flex-direction: column;
   gap: 25px;
@@ -333,7 +325,7 @@
 .social__list {
   list-style: none;
   display: flex;
-  gap: 32px;
+  gap: 48px;
 }
 
 .item__link_icon {
